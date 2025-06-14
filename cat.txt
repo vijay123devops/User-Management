@@ -1,1 +1,2 @@
-echo "changes made from GUI"
+echo "changes made fromGUI"
+echo "hello kkfunda"
