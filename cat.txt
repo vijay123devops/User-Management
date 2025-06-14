@@ -1,2 +1,3 @@
 echo "changes made fromGUI"
-echo "hello kkfunda"
+echo "print hello world"
+echo "changes made from GUI"
