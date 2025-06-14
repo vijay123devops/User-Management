@@ -1,3 +1,0 @@
-echo "happy leraning"
-echo "kkfunda"
-echo "good morning"
