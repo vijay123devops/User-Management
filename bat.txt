@@ -1,2 +1,3 @@
 echo "testing"
-ech "merging"
+ech0 "merging"
+echo "leaning"
