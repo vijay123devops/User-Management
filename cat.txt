@@ -1,3 +1,0 @@
-echo "changes made fromGUI"
-echo "print hello world"
-echo "changes made from GUI"
