@@ -1,0 +1,3 @@
+echo "good morning"
+echo "hi hello"
+echo "welcome to kkfunda"
