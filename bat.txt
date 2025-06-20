@@ -1,3 +1,0 @@
-echo "testing"
-ech0 "merging"
-echo "leaning"
